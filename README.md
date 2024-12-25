@@ -1,5 +1,14 @@
 # PySupervise
 
+![Python Version](https://img.shields.io/badge/Python-3.7-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.78.0-009688?logo=fastapi)
+![License](https://img.shields.io/github/license/username/py-supervise)
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/py-supervise/test.yml?branch=main)
+![Contributors](https://img.shields.io/github/contributors/username/py-supervise)
+![Open Issues](https://img.shields.io/github/issues/username/py-supervise)
+![Stars](https://img.shields.io/github/stars/username/py-supervise)
+![Forks](https://img.shields.io/github/forks/username/py-supervise)
+
 PySupervise is a lightweight backend built with FastAPI for real-time task monitoring and resource tracking. It features Server-Sent Events (SSE) to provide live updates on CPU, memory, and GPU usage, along with task execution and status monitoring.
 
 ---
